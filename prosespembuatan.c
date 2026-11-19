@@ -42,8 +42,8 @@ void buatKopiStandar() {
     char namaKopi[30];
 
     printf("\n%s--- SMART COFFEE MAKER MENU ---%s\n", COLOR_YELLOW, COLOR_RESET);
-    printf("1. Espresso\n");
-    printf("2. Americano\n");
+    printf("1. Americano\n");
+    printf("2. Espresso\n");
     printf("3. Cafe Latte\n");
     printf("4. Caramel Macchiato\n");
     printf("5. Dirty Matcha\n");
